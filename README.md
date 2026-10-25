@@ -12,7 +12,7 @@ A simple calculator built with Qt Design Studio and QML.
 - Qt Design Studio (Qt 6.8)
 
 ## Screenshot
-![Calculator](<Знімок екрана 2026-10-25 210846.png>)
+![Calculator](screenshot.png)
 
 ## Author
 Vitalii, Computer Science student in The Hague
