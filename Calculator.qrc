@@ -1,0 +1,12 @@
+<RCC>
+    <qresource>
+        <file>Calculator.qmlproject</file>
+        <file>Calculator/Constants.qml</file>
+        <file>Calculator/EventListModel.qml</file>
+        <file>Calculator/EventListSimulator.qml</file>
+        <file>Calculator/qmldir</file>
+        <file>CalculatorContent/App.qml</file>
+        <file>CalculatorContent/Calculator.qml</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>
